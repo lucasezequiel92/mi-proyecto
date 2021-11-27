@@ -8304,7 +8304,7 @@ header {
           margin-top: 5px; }
           .products-list-container ul li .product-info .stars i {
             font-size: 13px;
-            color: yellow; }
+            color: var(--yellow); }
         .products-list-container ul li .product-info .product-price {
           font-size: 18px;
           margin: 0;
