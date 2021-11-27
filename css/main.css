@@ -8160,7 +8160,7 @@ a:hover, .btn-link:hover {
     display: block;
     width: 40px;
     height: 3px;
-    background: #ff7f00;
+    background: rgba(0,107,131,1.00);
     bottom: 15px;
     left: 50%;
     -webkit-transform: translateX(-50%);
@@ -8200,7 +8200,7 @@ header {
       left: 0;
       top: 0;
       font-size: 20px;
-      color: #ff7f00; }
+      color: rgba(0,107,131,1.00); }
 
 .profile-options-modal .profile-options-list {
   padding: 0;
