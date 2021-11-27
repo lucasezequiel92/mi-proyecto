@@ -2456,10 +2456,10 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: #ff7f00;
+  color: rgba(0,107,131,1.00);
   text-decoration: none; }
   .btn-link:hover {
-    color: #b35900;
+    color: rgb(9, 129, 156);
     text-decoration: underline; }
   .btn-link:focus, .btn-link.focus {
     text-decoration: underline;
@@ -8282,7 +8282,7 @@ header {
           width: 100%; }
           .products-list-container ul li .product-info .tags span {
             display: block;
-            background: #ff7f00;
+            background: rgba(0,107,131,1.00);
             color: #fff;
             border-radius: 10px;
             margin-right: 7px;
